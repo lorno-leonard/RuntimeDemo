@@ -1,0 +1,80 @@
+
+pack.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn9D
+  rotate: false
+  xy: 2, 10
+  size: 108, 50
+  orig: 108, 50
+  offset: 0, 0
+  index: -1
+btnAS
+  rotate: false
+  xy: 112, 10
+  size: 108, 50
+  orig: 108, 50
+  offset: 0, 0
+  index: -1
+btnKC
+  rotate: false
+  xy: 222, 10
+  size: 108, 50
+  orig: 108, 50
+  offset: 0, 0
+  index: -1
+btnN
+  rotate: false
+  xy: 332, 10
+  size: 108, 50
+  orig: 108, 50
+  offset: 0, 0
+  index: -1
+btnP
+  rotate: false
+  xy: 442, 10
+  size: 108, 50
+  orig: 108, 50
+  offset: 0, 0
+  index: -1
+btnTimer100
+  rotate: false
+  xy: 552, 10
+  size: 108, 50
+  orig: 108, 50
+  offset: 0, 0
+  index: -1
+btnTimer50
+  rotate: false
+  xy: 662, 10
+  size: 108, 50
+  orig: 108, 50
+  offset: 0, 0
+  index: -1
+btnZ
+  rotate: false
+  xy: 772, 10
+  size: 108, 50
+  orig: 108, 50
+  offset: 0, 0
+  index: -1
+timerbg
+  rotate: false
+  xy: 882, 45
+  size: 15, 15
+  split: 4, 4, 4, 4
+  pad: 0, 0, 0, 0
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+timerprogress
+  rotate: false
+  xy: 2, 2
+  size: 6, 6
+  split: 2, 2, 2, 2
+  pad: 0, 0, 0, 0
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
